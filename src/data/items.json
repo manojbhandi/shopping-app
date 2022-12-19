@@ -2,25 +2,19 @@
     {
         "id": 1,
         "name": "",
-        "price": "",
+        "price": 2500000,
         "imgUrl": "./public/images/car.jpg"
     },
     {
         "id": 2,
         "name": "",
-        "price": "",
+        "price": 1999,
         "imgUrl": "./public/images/bag.jpg"
     },
     {
         "id": 3,
         "name": "",
-        "price": "",
+        "price": 2000,
         "imgUrl": "./public/images/jacket.jpg"
-    },
-    {
-        "id": 4,
-        "name": "",
-        "price": "",
-        "imgUrl": ""
     }
 ]
