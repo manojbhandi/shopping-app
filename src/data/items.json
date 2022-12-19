@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "price": "",
+        "imgUrl": "./public/images/car.jpg"
+    },
+    {
+        "id": 2,
+        "name": "",
+        "price": "",
+        "imgUrl": "./public/images/bag.jpg"
+    },
+    {
+        "id": 3,
+        "name": "",
+        "price": "",
+        "imgUrl": "./public/images/jacket.jpg"
+    },
+    {
+        "id": 4,
+        "name": "",
+        "price": "",
+        "imgUrl": ""
+    }
+]
